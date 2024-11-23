@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1BRI-BSYl_kD_rOVnLBxArHo1pOPNK3t9
 """
 
-import stramlit as st
+import streamlit as st
 from Bio import SeqIO
 from Bio import Entrez
 from Bio.PDB import PDBParser, PDBList
