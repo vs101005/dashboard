@@ -1,3 +1,4 @@
+streamlit
 biopython
 biopandas
 py3Dmol
